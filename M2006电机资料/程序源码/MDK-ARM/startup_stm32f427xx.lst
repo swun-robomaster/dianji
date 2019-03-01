@@ -894,9 +894,10 @@ ARM Macro Assembler    Page 14
               00000000 
               00000000 
 Command Line: --debug --xref --cpu=Cortex-M4.fp --apcs=interwork --depend=demo\
-startup_stm32f427xx.d -odemo\startup_stm32f427xx.o -IC:\Users\14391\Desktop\200
-6\程序源码\MDK-ARM\RTE -ID:\k5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include --predefi
-ne="__MICROLIB SETA 1" --list=startup_stm32f427xx.lst startup_stm32f427xx.s
+startup_stm32f427xx.d -odemo\startup_stm32f427xx.o -ID:\github库\电机资料\dianj
+i\M2006电机资料\程序源码\MDK-ARM\RTE -ID:\k5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Inc
+lude --predefine="__MICROLIB SETA 1" --list=startup_stm32f427xx.lst startup_stm
+32f427xx.s
 
 
 
